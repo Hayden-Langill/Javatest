@@ -1,2 +1,1 @@
-let applemappledoublechoclatehi = alert
-applemappledoublechoclatehi(' Hello, World ');
+alert('Hello, World');
